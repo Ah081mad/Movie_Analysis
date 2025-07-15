@@ -1,2 +1,2 @@
 # Movie_Analysis
-Python Project
+In this project i analyzed movie data downloaded from kaggle using python
