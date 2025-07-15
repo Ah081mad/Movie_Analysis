@@ -1,2 +1,2 @@
 # Movie_Analysis
-Personal Project
+Python Project
